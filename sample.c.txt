@@ -1,0 +1,9 @@
+#include <stdio.h>
+
+int main(){
+
+printf("this is the sample code for git test purpous");
+
+return 0;
+
+}
