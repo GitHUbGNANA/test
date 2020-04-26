@@ -6,4 +6,6 @@ printf("this is the sample code for git test purpous");
 
 return 0;
 
+printf("end of the main code");
+
 }
