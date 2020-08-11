@@ -1,6 +1,9 @@
 #include <iostream>
 #include <string>
 
+
+// added string functions and overloaded operatorsi info
+
 using namespace std;
 
 static uint32_t s_AllocCount = 0;
