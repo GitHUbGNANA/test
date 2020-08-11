@@ -3,7 +3,7 @@
 
 
 // added string functions and overloaded operatorsi info
-
+// added sample code data
 using namespace std;
 
 static uint32_t s_AllocCount = 0;
